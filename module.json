@@ -1,5 +1,5 @@
 {
-  "name": "todo-list",
+  "id": "todo-list",
   "title": "To Don't",
   "description": "A simple module which adds a user specific to do list.",
   "authors": [
