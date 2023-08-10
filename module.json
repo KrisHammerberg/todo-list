@@ -12,7 +12,7 @@
     "minimum": "11",
     "verified": "11"
   }
-  "mainfest": "https://github.com/KrisHammerberg/todo-list/module.json",
+  "mainfest": "https://raw.githubusercontent.com/KrisHammerberg/todo-list/module.json",
   "scripts": [
     "scripts/todo-list.js"
   ]
