@@ -8,5 +8,6 @@
     }
   ],
   "version": "1",
-  "minimumCoreVersion": "0.8.8"
+  "minimumCoreVersion": "0.8.8",
+  "mainfest": "https://github.com/KrisHammerberg/todo-list/edit/main/module.json"
 }
