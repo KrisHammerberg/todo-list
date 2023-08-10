@@ -4,8 +4,8 @@
   "description": "A simple module which adds a user specific to do list.",
   "version": "1",
   "compatibility":{
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "10.303",
+    "verified": "10.303"
   },
   "authors": [
     {
