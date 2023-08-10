@@ -2,16 +2,17 @@
   "id": "todo-list",
   "title": "To Don't",
   "description": "A simple module which adds a user specific to do list.",
-  "authors": [
-    {
-      "name": "Me!"
-    }
-  ],
   "version": "1",
   "compatibility":{
     "minimum": "11",
     "verified": "11"
   }
+  "authors": [
+    {
+      "name": "Me!"
+    }
+  ],
+  "url": "https://github.com/KrisHammerberg/todo-list",
   "mainfest": "https://raw.githubusercontent.com/KrisHammerberg/todo-list/main/module.json",
   "scripts": [
     "scripts/todo-list.js"
