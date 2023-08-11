@@ -12,6 +12,16 @@
       "name": "Me!"
     }
   ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "styles": [
+    "styles/todo-list.css"
+  ],
   "url": "https://github.com/KrisHammerberg/todo-list",
   "mainfest": "https://raw.githubusercontent.com/KrisHammerberg/todo-list/main/module.json",
   "download": "https://github.com/KrisHammerberg/todo-list/archive/v1.0.2.zip",
