@@ -2,7 +2,7 @@
   "id": "todo-list",
   "title": "To Don't",
   "description": "A simple module which adds a user specific to do list.",
-  "version": "1",
+  "version": "1.0.3",
   "compatibility":{
     "minimum": "10.303",
     "verified": "10.303"
